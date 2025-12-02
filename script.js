@@ -131,6 +131,35 @@
 // let posteJoueur = joueurs.filter(n => n.poste === "attaqueur")
 // console.log(posteJoueur);
 
+//Partie 6 : Transformer un tableau
+
+// const arrayMap = [1, 2, 3, 4];
+// let mapping = arrayMap.map(n => n*n)
+// console.log(mapping);
+
+// const arrayEtud = [
+//     {nom: "salma", poste: "deffenseur"},
+//     {nom: "ghita", poste: "attaqueur"},
+//     {nom: "salwa", poste: "gardien"}, 
+//     {nom: "mohamed", poste: "deffensure"},
+//     {nom: "ali", poste: "attaqueur"}
+// ];
+
+// let mapping = arrayEtud.map(n => n.nom)
+// console.log(mapping);
+
+// let mapping = arrayEtud.map(n => {
+//     return { 
+//     nom: "salma", poste: "deffenseur",
+//     nom: "ghita", poste: "attaqueur",
+//     nom: "salwa", poste: "gardien", 
+//     nom: "mohamed", poste: "deffensure",
+//     nom: "ali", poste: "attaqueur",
+//     isActive : true
+// }
+// });
+// console.log(mapping);
+
 
 
 
