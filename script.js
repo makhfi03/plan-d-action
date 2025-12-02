@@ -105,6 +105,41 @@
 // let joueur = joueurs.find(n => n.id === 2)
 // console.log(joueur);
 
+//Partie 5 : Filtrer un tableau
+
+// let array = [1, 12, 3, 14, 10, 19, 5, 20];
+// let sup = array.filter(n => n>10)
+// console.log(sup);
+
+// let notes = [
+//     {nom: "salma", note: 1},
+//     {nom: "ghita", note: 12},
+//     {nom: "salwa", note: 4}, 
+//     {nom: "mohamed", note: 15},
+//     {nom: "ali", note: 14}
+// ];
+// let moyenne = notes.filter(n => n.note>=12)
+// console.log(moyenne);
+
+// let joueurs = [
+//     {nom: "salma", poste: "deffenseur"},
+//     {nom: "ghita", poste: "attaqueur"},
+//     {nom: "salwa", poste: "gardien"}, 
+//     {nom: "mohamed", poste: "deffensure"},
+//     {nom: "ali", poste: "attaqueur"}
+// ];
+// let posteJoueur = joueurs.filter(n => n.poste === "attaqueur")
+// console.log(posteJoueur);
+
+
+
+
+
+
+
+
+
+
 
 //Partie 10 : Projet final + intégration DOM
 // let contact = ["ghita","ghita@gmail.com","0766527392"]
