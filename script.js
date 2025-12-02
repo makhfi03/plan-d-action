@@ -85,8 +85,25 @@
 //     }
 // }
 
+//Partie 4 : Rechercher dans un tableau
 
+// const array = ["ghitaa", "mohamed", "rim", "ali", "safa"];
+// let recherche = array.find(nom => nom == "ali")
+// console.log(recherche);
+// recherche = array.find(nom => nom == "souad")
+// console.log(recherche);
 
+// const array2 = [1, 2, 3, 4];
+// let recherche = array2.find(n => n%2 == 0)
+// console.log(recherche);
+
+// let joueurs = [
+//     {id: 1, nom: "mohamed"},
+//     {id: 2, nom: "ghita"},
+//     {id: 3, nom: "ali"}
+// ]
+// let joueur = joueurs.find(n => n.id === 2)
+// console.log(joueur);
 
 
 //Partie 10 : Projet final + intégration DOM
