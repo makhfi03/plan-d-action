@@ -160,6 +160,34 @@
 // });
 // console.log(mapping);
 
+//Partie 7 : Trier et ordonner un tableau
+
+// let array = [1,4,6,10]
+// array.sort((a,b) => a-b);
+// console.log(array);
+
+// array.sort((a,b) => b-a);
+// console.log(array);
+
+// let array = ["salam","cava","bikhir","mzyan"]
+// array.sort()
+// console.log(array);
+
+// let arrayEtud = [
+//     {nom: "salma", age: 17},
+//     {nom: "ghita", age: 21},
+//     {nom: "salwa", age: 26}, 
+//     {nom: "mohamed", age: 20},
+//     {nom: "ali", age: 18}
+// ];
+
+// arrayEtud.sort((a,b)=> a.age - b.age)
+// console.log(arrayEtud);
+
+// arrayEtud.sort((a,b)=> b.age - a.age)
+// console.log(arrayEtud);
+
+//Partie 8 : Mise à jour et suppression dans un tableau d’objets
 
 
 
