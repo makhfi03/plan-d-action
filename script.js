@@ -25,7 +25,7 @@
 
 // let tableau2 = ["a", "b", "c", "d"];
 // console.log(tableau2)
-// tableau2.push("aa")
+// tableau2.push("aa") 
 // console.log(tableau2)
 // tableau2.unshift("zz")
 // console.log(tableau2)
@@ -188,6 +188,39 @@
 // console.log(arrayEtud);
 
 // Partie 8 : Mise à jour et suppression dans un tableau d’objets
+
+// let arrayEtud = [
+//     {id: 1, nom: "salma", age: 17},
+//     {id: 2, nom: "ghita", age: 21},
+//     {id: 3, nom: "salwa", age: 26}, 
+//     {id: 4, nom: "mohamed", age: 20},
+//     {id: 5, nom: "ali", age: 18}
+// ];
+
+// // const idModif = 2;
+// // let etudModif = arrayEtud.find(etud => etud.id === idModif);
+// // if (etudModif) {
+// //   etudModif.nom = "salma2";
+// // }
+// // console.log(arrayEtud);
+
+// let etudSupprimer = arrayEtud.filter()
+
+// const joueurs = [
+//   { id: 1, nom: "Ghita" },
+//   { id: 2, nom: "Leila" },
+//   { id: 3, nom: "Chaima" }
+// ];
+
+// console.log(joueurs);
+// const idSupprimer = 2;
+// const nJoueurs = joueurs.filter(joueur => joueur.id !== idSupprimer);
+// console.log(nJoueurs);
+
+// let increm = arrayEtud.map(n => n.age+1)
+// console.log(increm);
+
+// Partie 9 : Mini projet : CRUD en tableau
 
 
 
